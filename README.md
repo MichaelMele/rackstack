@@ -1,6 +1,8 @@
 # RackStack
 
-A web app for making dimensioned elevation drawings of warehouse storage racks. Choose a rack type, enter the measurements, and the drawing updates as you type.
+A web app for making elevation drawings of warehouse storage racks with dimensions. Choose a rack type, enter the measurements, and the drawing updates as you type.
+
+![Project Screenshot](/screenshot.png)
 
 ## Why I built it
 

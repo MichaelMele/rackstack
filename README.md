@@ -34,8 +34,8 @@ Simple rack elevations, which show how tall the uprights are and where each leve
 You need [Node.js](https://nodejs.org) 20 or newer.
 
 ```bash
-git clone <your-repo-url>
-cd canti-eq
+git clone https://github.com/MichaelMele/rackstack.git
+cd rackstack
 npm install
 npm run dev
 ```
